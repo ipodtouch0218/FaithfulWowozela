@@ -1,0 +1,7 @@
+name: Wowozela
+version: 1.0.0
+main: me.ipodtouch0218.wowozela.Wowozela
+api-version: 1.16
+commands:
+  wowozela:
+    usage: /<command> <sound>
